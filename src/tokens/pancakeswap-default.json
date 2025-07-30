@@ -102,5 +102,15 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+  },
+  {
+    "name": "MineYes Algorithmic",
+    "symbol": "MYA",
+    "address": "0xa159E8282b1b55d330068348229f02d1D474B6f0",
+    "chainId": 56,
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/mineyes2024/mineyes-token-assets/main/logo/logo-200.png",
+    "website": "https://mineyes.com",
+    "description": "MineYes Algorithmic (MYA) is an innovative token dedicated to building a decentralized computing power trading ecosystem on Binance Smart Chain."
   }
 ]
